@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "eca2_2_sendto"
